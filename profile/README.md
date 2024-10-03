@@ -9,9 +9,18 @@ A cada novo projeto, nós vamos fazer um repositório para jogo onde vamos docum
 ### Atualmente traduzimos para:
 
 <img height="45" src="https://github.com/Matizhill/.github/blob/main/Playstation_logo_colour.svg.png">
-<img height="38" src="https://github.com/Matizhill/.github/blob/main/PS2-Emblem.png">
+&nbsp;&nbsp;
+<img height="40" src="https://github.com/Matizhill/.github/blob/main/PS2-Emblem.png">
+&nbsp;&nbsp;
 <img height="45" src="https://github.com/Matizhill/.github/blob/main/Dreamcast-Symbol.png">
 </div>
 
 > [!NOTE]
 > Se você for utilizar algum projeto ou ferramentas postado algum repositório daqui, pedimos que coloque nossos créditos.
+<div align="center">
+<b>LINKS:</b>
+
+<a href="https://www.matizhill.com.br" target="_blank"><img height="39" src="https://github.com/Matizhill/.github/blob/main/MhICON2024.png"></a>
+<a href="https://www.youtube.com/@matizhill" target="_blank"><img height="40" src="https://github.com/Matizhill/.github/blob/main/icons8-youtube-64.png"></a>
+<a href="https://discord.com/invite/Brax3b8FjE" target="_blank"><img height="40" src="https://github.com/Matizhill/.github/blob/main/icons8-disc%C3%B3rdia-48.png"></a>
+</div>
