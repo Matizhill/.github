@@ -17,6 +17,8 @@ A cada novo projeto, nós vamos fazer um repositório para jogo onde vamos docum
 
 > [!NOTE]
 > Se você for utilizar algum projeto ou ferramentas postado algum repositório daqui, pedimos que coloque nossos créditos.
+<hr>
+
 <div align="center">
 <b>LINKS:</b>
 
