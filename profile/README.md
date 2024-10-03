@@ -17,12 +17,3 @@ A cada novo projeto, nós vamos fazer um repositório para jogo onde vamos docum
 
 > [!NOTE]
 > Se você for utilizar algum projeto ou ferramentas feito por nós de algum repositório nosso, pedimos que coloque nossos créditos.
-<hr>
-
-<div align="center">
-<b>LINKS:</b>
-
-<a href="https://www.matizhill.com.br" target="_blank"><img height="39" src="https://github.com/Matizhill/.github/blob/main/MhICON2024.png"></a>
-<a href="https://www.youtube.com/@matizhill" target="_blank"><img height="40" src="https://github.com/Matizhill/.github/blob/main/icons8-youtube-64.png"></a>
-<a href="https://discord.com/invite/Brax3b8FjE" target="_blank"><img height="40" src="https://github.com/Matizhill/.github/blob/main/icons8-disc%C3%B3rdia-48.png"></a>
-</div>
