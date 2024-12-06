@@ -2,7 +2,7 @@
 
 ![banner_matizhill](https://github.com/Matizhill/.github/blob/main/BannerGithub2.png)
 
-A cada novo projeto, nós vamos fazer um repositório para o jogo onde vamos documentar, programas utilizados, explicar cada processo e tudo que foi necessário para que tradução precisava para ser concluído. Além de ajudar as pessoas traduzirem para outros idiomas, também fará que desenvolva no romhacking se ler os documentos de algum projeto, assim colaborando para espalhar mais do conhecimento possível em romhacking.
+A cada novo projeto, nós vamos fazer um repositório para o jogo onde vamos documentar programas utilizados, explicar cada processo e tudo que foi necessário para que tradução fosse concluída. Além de possibilitar outras pessoas em traduzir para outros idiomas, também fará que ajude desenvolver técnicas com ROMHacking com guias dos nossos documentos, assim colaborando com a comunidade de traduções de jogos retros.
 
 <div align="center">
 
